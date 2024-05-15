@@ -30,3 +30,9 @@ This Micrfrontend project is divided en the following Microfrontends:
 2. Access /mf-list-todo folder
 3. Run de command ```npm install```
 4. Start Host  with ```npm run start``` (Running in http://localhost:8082/)
+
+## Final Result
+
+![screencapture-localhost-8080-2024-05-14-18_14_01](https://github.com/debiig92/mf-react-todo-ts/assets/32922410/0dcef9d3-a449-432d-aba7-5b7fd89208d2)
+
+
