@@ -4,9 +4,9 @@ This project provides a minimal setup for a Todo App working with Module Federat
 
 ## Structure
 
-This Micrfrontend project is divided en the following Microfrontends:
+This Microfrontend project is divided in the following Microfrontends:
 
-1. HOST: Container project for
+1. HOST: Container project for MF
 2. MF-CREATE-TODO: React-ts Project containing the create Todos Functionality
 3. MF-LIST-TODO:  React-ts Project containing  the Todo List Functionality
 
