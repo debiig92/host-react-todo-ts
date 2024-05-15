@@ -33,6 +33,8 @@ This Microfrontend project is divided in the following Microfrontends:
 
 ## Final Result
 
+Access in the browser to http://localhost:8080/ 
+
 ![screencapture-localhost-8080-2024-05-14-18_14_01](https://github.com/debiig92/mf-react-todo-ts/assets/32922410/0dcef9d3-a449-432d-aba7-5b7fd89208d2)
 
 
